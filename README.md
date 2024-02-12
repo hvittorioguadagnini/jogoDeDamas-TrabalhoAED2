@@ -11,6 +11,7 @@ Este é um jogo de Damas implementado em Java, utilizando as seguintes classes:
 - `Jogo.java`: Classe que gerencia o estado atual do jogo, como o tabuleiro e os jogadores.
 - `Nó.java`: Representa um nó na árvore de possibilidades de jogadas.
 - `Tabuleiro.java`: Classe que representa o tabuleiro do jogo de Damas.
+- `JogoDamasGUI.java`: Implementação da interface gráfica do jogo de Damas.
 
 ## Como Jogar
 
