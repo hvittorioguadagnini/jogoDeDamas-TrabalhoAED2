@@ -1,4 +1,4 @@
-# Jogo de Damas AAAAAAAAAA
+# Jogo de Damas
 
 Este é um jogo de Damas implementado em Java, utilizando as seguintes classes:
 
